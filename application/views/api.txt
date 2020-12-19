@@ -1,0 +1,67 @@
+API URl:
+
+http://account.lpktechnosoft.com/api
+
+API Methods:
+  
+    1.add_user()
+	2.edit_user_profile()
+	3)edit_user_image()
+	4)user_send_mail()
+  
+ 
+What parameters to be Passed?
+
+->Use POST method to pass the parameters
+
+    -> Authorization : 223412
+    -> username
+
+    1)add_user()
+        name : add_user
+        username : aysha
+		email : example@gmail.com
+		mobile_no : 85979046
+		fcm_id : kdjfrg8954jkfg
+		fcm_token : ahfkl8jhfgk
+		profile_image : image
+		user_type : google
+	
+	2)edit_user_profile()
+		name : edit_user_profile
+		fcm_id : xyz
+		email : xyz@gmail.com
+        username : aysha
+		mobile_no : 985469860
+		
+		
+	3)edit_user_image()
+		name : edit_user_profile
+		fcm_id : xyz
+		email : xyz@gmail.com
+       	profile_image : Image
+		
+	4)user_send_mail
+		name : user_send_mail
+		email : xyz@gmail.com
+		pass_code : xyz
+		
+		
+
+        
+        
+
+
+        
+    
+      
+        
+	  
+
+
+ 
+
+
+
+
+

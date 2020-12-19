@@ -1,0 +1,1 @@
+<html>    <body>        <footer class="footer">            Designed & developed by <span class="d-none d-sm-inline-block"><a href="https://www.lpktechnosoft.com/" target="_blank">LPK Technosoft</a></span>        </footer>    </body></html>
